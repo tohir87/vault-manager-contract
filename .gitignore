@@ -1,0 +1,5 @@
+# solidity
+*.sol.js
+/lib/
+/build/
+/coverage/
